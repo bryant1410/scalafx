@@ -57,7 +57,7 @@ For information on building with SBT see `README-SBT.txt`.
 The official web site for ScalaFX is http://scalafx.org.
 
 
-#Software License
+# Software License
 
 This software licensed under BSD Open Source.
 
@@ -65,7 +65,7 @@ The License text for this software can be found in [LICENSE.txt](LICENSE.txt) in
 folder of the project.
 
 
-#Software Required
+# Software Required
 
 The following software is needed to build ScalaFX:
 
@@ -77,7 +77,7 @@ The following software is needed to build ScalaFX:
 It works with Windows, MacOS X and Linux ports.
 
 
-#Project Structure
+# Project Structure
 
 The current project structure looks like this:
 
@@ -98,14 +98,14 @@ The `scalafx-demos` is the sub project for the ScalaFX Framework Demonstrations 
 The `project` folder is reserved for Scala SBT.
 
 
-#Source Code Branching Policy
+# Source Code Branching Policy
 
 The current development is for ScalaFX 8 and it is done on the `master` branch. Releases are done on the `stable` branch. Releases are tagged with version number. Pull requests are only accepted off a brunch created from the `master` branch. When working on a pull request, create a separate branch for each feature or bug fix. This way the main development branch is not blocked by a pull request and pull requests are easier to merge individually.
 
 The ScalaFX 2.2 development is no longer active. For those who need it, the code is on the `SFX-2` branch and past releases are on the `SFX-2-stable` branch. 
 
 
-#Credits
+# Credits
 
 You can find the full list of committers, developers and contributors in
 the file [MAINTAINERS.txt](MAINTAINERS.txt).
